@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![artix.png]
-
+<img src="artix.png">
 <!--
 **Productive2/Productive2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
