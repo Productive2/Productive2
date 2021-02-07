@@ -6,7 +6,7 @@
 <img src="freebsd.png" width=100px>
 <img src="nginx.png" width=100px>
 <img src="nim.png" width=100px>
-<img src="python.png" width=100px>
+<img src="python.jpg" width=100px>
 <img src="cs.png" width=100px>
 <img src="java.png" width=100px>
 <!--
