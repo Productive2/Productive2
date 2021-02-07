@@ -2,7 +2,7 @@
 
 <img src="artix.png" width=100px>
 <img src="linux.png" width=100px>
-<img src="nvim.png" width=100px>
+<img src="neovim.png" width=100px>
 <img src="freebsd.png" width=100px>
 <img src="nginx.png" width=100px>
 <img src="nim.png" width=100px>
