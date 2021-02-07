@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Chat with me:
+Matrix: @Productive2:tchncs.de
+XMPP: productive2@snopyta.org
+
+## Stuff I've worked with
+
 <div style="display:flex">
 <img src="artix.png" width="100px">
 <img src="linux.png" width="100px">
