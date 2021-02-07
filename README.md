@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Chat with me:
+
 Matrix: @Productive2:tchncs.de
+
 XMPP: productive2@snopyta.org
 
 ## Stuff I've worked with
