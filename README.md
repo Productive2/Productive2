@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-<img src="artix.png" width=100px>
-<img src="linux.png" width=100px>
-<img src="neovim.png" width=100px>
-<img src="freebsd.png" width=100px>
-<img src="nginx.png" width=100px>
-<img src="nim.png" width=100px>
-<img src="python.jpg" width=100px>
-<img src="cs.png" width=100px>
-<img src="java.png" width=100px>
+<div style="display:flex">
+<img src="artix.png" width="100px">
+<img src="linux.png" width="100px">
+<img src="neovim.png" width="100px">
+<img src="freebsd.png" width="100px">
+<img src="nginx.png" width="100px">
+<img src="nim.png" width="100px">
+<img src="python.jpg" width="100px">
+<img src="cs.png" width="100px">
+<img src="java.png" width="100px">
+</div>
 <!--
 **Productive2/Productive2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
